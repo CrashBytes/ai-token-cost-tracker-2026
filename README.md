@@ -3,6 +3,13 @@
 Real-time AI API cost tracking for OpenAI, Anthropic, and Google AI. Never get surprised by your LLM API bill again.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Coverage: 100%](https://img.shields.io/badge/Coverage-100%25-brightgreen.svg)](https://github.com/CrashBytes/ai-token-cost-tracker-2026)
+[![Tests: 143 Passing](https://img.shields.io/badge/Tests-143%20Passing-brightgreen.svg)](https://github.com/CrashBytes/ai-token-cost-tracker-2026)
+[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue.svg?logo=googlechrome)](https://developer.chrome.com/docs/extensions/)
+[![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue.svg)](https://developer.chrome.com/docs/extensions/mv3/intro/)
+[![Node: 18+](https://img.shields.io/badge/Node-18+-green.svg?logo=node.js)](https://nodejs.org)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/CrashBytes/ai-token-cost-tracker-2026/pulls)
+[![CrashBytes Tutorial](https://img.shields.io/badge/Tutorial-CrashBytes-orange.svg)](https://crashbytes.com/tutorials/ai-token-cost-tracker-chrome-extension-tutorial-2026)
 
 ## Features
 
