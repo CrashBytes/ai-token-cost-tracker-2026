@@ -6,9 +6,9 @@
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
-    "test": "jest",
-    "test:watch": "jest --watch",
-    "test:coverage": "jest --coverage"
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest",
+    "test:watch": "NODE_OPTIONS=--experimental-vm-modules jest --watch",
+    "test:coverage": "NODE_OPTIONS=--experimental-vm-modules jest --coverage"
   },
   "keywords": [
     "chrome-extension",
@@ -28,8 +28,8 @@
     "rollup": "^4.9.0"
   },
   "dependencies": {
-    "tiktoken": "^1.0.10",
-    "chart.js": "^4.4.1"
+    "chart.js": "^4.4.1",
+    "tiktoken": "^1.0.10"
   },
   "repository": {
     "type": "git",
